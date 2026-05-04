@@ -1,6 +1,7 @@
 # Assessment 2 – OFDM and OFDMA Systems
 # Grade: 95%
-# Date: October 2025
+**Author:** Kyle Sheehy  
+**Date:** November 2025  
 
 Simulation of an OFDM single-user system and an OFDMA two-user system with BER performance analysis over an AWGN channel using QPSK modulation.
 
