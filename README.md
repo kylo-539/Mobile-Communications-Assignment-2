@@ -5,6 +5,23 @@
 
 Simulation of an OFDM single-user system and an OFDMA two-user system with BER performance analysis over an AWGN channel using QPSK modulation.
 
+---
+
+## ⚠️ Source Code Availability
+
+To preserve academic integrity, full source code is not publicly available.
+
+This repository instead provides:
+
+- Processed datasets (CSV)  
+- High-resolution visualisations  
+- Simulation structure and methodology  
+- Analysis outputs and key findings  
+
+Full implementation details are available upon request for professional or academic review.
+
+---
+
 ## Files
 
 | File | Description |
